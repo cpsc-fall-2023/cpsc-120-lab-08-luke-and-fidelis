@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Fidelis Okorie
+// fokorie@csu.fullerton.edu
+// @Maxawesome101
+// Partners: @lukspencer1
 
 #include <iostream>
 #include <string>
